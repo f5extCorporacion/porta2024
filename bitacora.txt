@@ -1,0 +1,3 @@
+angular con firebase
+
+npm i @angular/fire@latest

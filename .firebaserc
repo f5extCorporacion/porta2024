@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "porta2024": {
+      "hosting": {
+        "alchemysoul": [
+          "porta2024"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "porta2024"
+  }
+}
